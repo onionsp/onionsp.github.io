@@ -4,27 +4,24 @@
 
 ### General Projects - See GitHub for more
 
-[Spotify Playlist Generator](https://github.com/onionsp/Spotify-Playlist-Generator)
+- [Spotify Playlist Generator](https://github.com/onionsp/Spotify-Playlist-Generator)
 <img src="images/spotify1.png?raw=true"/>
 <img src="images/spotify2.png?raw=true"/>
 
 ---
-[Software Developer Salary Predictor](https://github.com/onionsp/Developer-Salary-Predictor/tree/main)
+- [Software Developer Salary Predictor](https://github.com/onionsp/Developer-Salary-Predictor/tree/main)
 <img src="images/salary1.png?raw=true"/>
 
 ---
-[Synthetic Whole Genome Sequencing Dataset Generator](https://github.com/onionsp/Synthetic-WGS-Dataset-Generator)
+- [Synthetic Whole Genome Sequencing Dataset Generator](https://github.com/onionsp/Synthetic-WGS-Dataset-Generator)
 
 ---
 
 ### Finance Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Black Scholes Option Pricing](https://github.com/onionsp/Black-Scholes-heatmap)
+<img src="images/pricing_heatmat.png?raw=true"/>
+- [Stock Portfolio Optimisation](https://github.com/onionsp/Portfolio-Optimisation)
 ---
 
 
