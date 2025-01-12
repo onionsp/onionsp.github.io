@@ -21,6 +21,7 @@
 
 - [Black Scholes Option Pricing](https://github.com/onionsp/Black-Scholes-heatmap)
 <img src="images/pricing_heatmap.png?raw=true"/>
+---
 - [Stock Portfolio Optimisation](https://github.com/onionsp/Portfolio-Optimisation)
 ---
 
