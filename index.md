@@ -4,7 +4,7 @@
 
 ### General Projects
 
-[Project 1 Title](/sample_page)
+[Spotify Playlist Generator](https://github.com/onionsp/Spotify-Playlist-Generator)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
