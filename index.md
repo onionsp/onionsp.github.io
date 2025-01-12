@@ -2,19 +2,18 @@
 
 ---
 
-### General Projects
+### General Projects - See GitHub for more
 
 [Spotify Playlist Generator](https://github.com/onionsp/Spotify-Playlist-Generator)
 <img src="images/spotify1.png?raw=true"/>
 <img src="images/spotify2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Software Developer Salary Predictor](https://github.com/onionsp/Developer-Salary-Predictor/tree/main)
+<img src="images/salary1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Synthetic Whole Genome Sequencing Dataset Generator](https://github.com/onionsp/Synthetic-WGS-Dataset-Generator)
 
 ---
 
