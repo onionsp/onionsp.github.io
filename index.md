@@ -4,6 +4,10 @@
 
 ### General Projects - See GitHub for more
 
+- [Super Mario Reinforcement Learning Agent](https://github.com/onionsp/Super-Mario-RL/tree/main)
+<img width="832" alt="Screenshot 2025-02-17 at 12 35 12 pm" src="https://github.com/user-attachments/assets/d67b1246-8a67-415a-8639-0c9d87b6311c" />
+
+---
 - [Spotify Playlist Generator](https://github.com/onionsp/Spotify-Playlist-Generator)
 <img src="images/spotify1.png?raw=true"/>
 <img src="images/spotify2.png?raw=true"/>
